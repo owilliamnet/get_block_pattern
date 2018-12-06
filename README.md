@@ -1,4 +1,4 @@
-# get_block_patthern
+# get_block_pattern
 
 A new Flutter project.
 
